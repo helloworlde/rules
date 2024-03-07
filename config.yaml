@@ -1,0 +1,28 @@
+rule-providers:
+  # 自定义规则
+  custom-proxy:
+    type: http
+    behavior: classical
+    url: https://fastly.jsdelivr.net/gh/helloworlde/rules@main/custom-proxy.yaml
+    interval: 3600
+    path: ./ruleset/custom-proxy.yaml
+  custom-reject:
+    type: http
+    behavior: classical
+    url: https://fastly.jsdelivr.net/gh/helloworlde/rules@main/custom-reject.yaml
+    interval: 3600
+    path: ./ruleset/custom-reject.yaml
+  custom-direct:
+    type: http
+    behavior: classical
+    url: https://fastly.jsdelivr.net/gh/helloworlde/rules@main/custom-direct.yaml
+    interval: 3600
+    path: ./ruleset/custom-direct.yaml
+  # 其他规则
+
+rules:
+  # 自定义规则
+  - RULE-SET,custom-proxy,PROXY
+  - RULE-SET,custom-reject,REJECT
+  - RULE-SET,custom-direct,DIRECT
+  # 其他规则

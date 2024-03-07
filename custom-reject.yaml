@@ -1,0 +1,13 @@
+payload:
+  # 格式
+  # - DOMAIN-KEYWORD,amazon
+  # - DOMAIN-SUFFIX,google.com
+  # - DOMAIN,ad.com
+  # - SRC-IP-CIDR,192.168.1.201/32
+  # - IP-CIDR,127.0.0.0/8
+  # - IP-CIDR6,2620:0:2d0:200::7/32
+  # - DST-PORT,80
+  # - SRC-PORT,7777
+  - DOMAIN-KEYWORD,apiauth.quickconnect.to
+  - DOMAIN-SUFFIX,sentry.io
+  - DOMAIN,stats.grafana.org

@@ -1,0 +1,26 @@
+payload:
+  # 格式
+  # - DOMAIN-KEYWORD,amazon
+  # - DOMAIN-SUFFIX,google.com
+  # - DOMAIN,ad.com
+  # - SRC-IP-CIDR,192.168.1.201/32
+  # - IP-CIDR,127.0.0.0/8
+  # - IP-CIDR6,2620:0:2d0:200::7/32
+  # - DST-PORT,80
+  # - SRC-PORT,7777
+  - DOMAIN-KEYWORD,docker
+  - DOMAIN-KEYWORD,google
+  - DOMAIN-SUFFIX,1drv.com
+  - DOMAIN-SUFFIX,x.com
+  - DOMAIN-SUFFIX,devv.ai
+  # TailScale
+  - DOMAIN-SUFFIX,tailscale.io
+  - DOMAIN-SUFFIX,tailscale.com
+  # Cloudflare Tunnel
+  - DOMAIN-SUFFIX,argotunnel.com
+  - DOMAIN,region1.v2.argotunnel.com
+  - DOMAIN,region2.v2.argotunnel.com
+  - IP-CIDR,198.41.200.0/24
+  - IP-CIDR,198.41.192.0/24
+  # Proxy Provider
+  - DOMAIN-KEYWORD,feiniaoyun

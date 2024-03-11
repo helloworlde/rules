@@ -24,3 +24,4 @@ payload:
   - IP-CIDR,198.41.192.0/24
   # Proxy Provider
   - DOMAIN-KEYWORD,feiniaoyun
+  - DOMAIN-KEYWORD,v2ex

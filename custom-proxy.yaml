@@ -22,6 +22,8 @@ payload:
   - DOMAIN,region2.v2.argotunnel.com
   - IP-CIDR,198.41.200.0/24
   - IP-CIDR,198.41.192.0/24
+  - IP-CIDR6,2606:4700:a0::/48
+  - IP-CIDR6,2606:4700:a8::/48
   # Proxy Provider
   - DOMAIN-KEYWORD,feiniaoyun
   - DOMAIN-KEYWORD,v2ex

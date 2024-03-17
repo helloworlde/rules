@@ -8,7 +8,8 @@ payload:
   # - IP-CIDR6,2620:0:2d0:200::7/32
   # - DST-PORT,80
   # - SRC-PORT,7777
-  - DOMAIN-KEYWORD,docker
+  - DOMAIN-SUFFIX,docker.com
+  - DOMAIN-SUFFIX,docker.io
   - DOMAIN-KEYWORD,google
   - DOMAIN-SUFFIX,1drv.com
   - DOMAIN-SUFFIX,x.com

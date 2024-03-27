@@ -15,4 +15,5 @@ payload:
   - DOMAIN-SUFFIX,microsoft.com
   - DOMAIN-KEYWORD,apple.com.akadns.net
   - DOMAIN-KEYWORD,itunes-apple.com.akadns.net
-  - DOMAIN-SUFFIX,apple.com
+  - DOMAIN-KEYWORD,itunes.apple.com
+  - DOMAIN-KEYWORD,apple

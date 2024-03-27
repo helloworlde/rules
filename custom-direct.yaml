@@ -13,3 +13,4 @@ payload:
   - DOMAIN-KEYWORD,derp
   - DOMAIN-SUFFIX,onedrive.com
   - DOMAIN-SUFFIX,microsoft.com
+  - DOMAIN-SUFFIX,apple.com.akadns.net

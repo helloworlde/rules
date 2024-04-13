@@ -27,6 +27,8 @@ payload:
   - IP-CIDR6,2606:4700:a8::/48
   # Cloudflare
   - DOMAIN-SUFFIX,cloudflare.com
+  # Proxmox 
+  - DOMAIN-SUFFIX,proxmox.com
   # Proxy Provider
   - DOMAIN-KEYWORD,feiniaoyun
   - DOMAIN-KEYWORD,v2ex

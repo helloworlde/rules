@@ -29,6 +29,7 @@ payload:
   - DOMAIN-SUFFIX,cloudflare.com
   # Proxmox 
   - DOMAIN-SUFFIX,proxmox.com
+  - DOMAIN-SUFFIX,debian.org
   # Proxy Provider
   - DOMAIN-KEYWORD,feiniaoyun
   - DOMAIN-KEYWORD,v2ex

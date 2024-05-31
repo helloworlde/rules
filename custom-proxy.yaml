@@ -33,4 +33,4 @@ payload:
   # Proxy Provider
   - DOMAIN-KEYWORD,feiniaoyun
   - DOMAIN-KEYWORD,v2ex
-
+  - DOMAIN,imap.gmail.com

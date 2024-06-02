@@ -15,6 +15,7 @@ payload:
   - DOMAIN-SUFFIX,x.com
   - DOMAIN-SUFFIX,devv.ai
   # TailScale
+  - DOMAIN,pkgs.tailscale.com
   - DOMAIN-SUFFIX,tailscale.io
   - DOMAIN-SUFFIX,tailscale.com
   # Cloudflare Tunnel

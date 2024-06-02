@@ -34,3 +34,7 @@ payload:
   - DOMAIN-KEYWORD,feiniaoyun
   - DOMAIN-KEYWORD,v2ex
   - DOMAIN,imap.gmail.com
+  # AI
+  - DOMAIN-KEYWORD,dify.ai
+  - DOMAIN-KEYWORD,openai.com
+  - DOMAIN-KEYWORD,chatgpt.com

@@ -38,3 +38,5 @@ payload:
   - DOMAIN-KEYWORD,dify.ai
   - DOMAIN-KEYWORD,openai.com
   - DOMAIN-KEYWORD,chatgpt.com
+  # iCloud
+  - DOMAIN-KEYWORD,mail.icloud.com.cn

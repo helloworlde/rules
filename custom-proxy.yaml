@@ -36,8 +36,9 @@ payload:
   - DOMAIN-KEYWORD,v2ex
   - DOMAIN,imap.gmail.com
   # AI
-  - DOMAIN-KEYWORD,dify.ai
-  - DOMAIN-KEYWORD,openai.com
-  - DOMAIN-KEYWORD,chatgpt.com
+  - DOMAIN-SUFFIX,dify.ai
+  - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-SUFFIX,chatgpt.com
+  - DOmAIN-SUFFIX,claude.ai
   # iCloud
   - DOMAIN-KEYWORD,mail.icloud.com.cn

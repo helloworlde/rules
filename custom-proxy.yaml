@@ -39,6 +39,7 @@ payload:
   - DOMAIN-SUFFIX,dify.ai
   - DOMAIN-SUFFIX,openai.com
   - DOMAIN-SUFFIX,chatgpt.com
-  - DOmAIN-SUFFIX,claude.ai
+  - DOMAIN-SUFFIX,claude.ai
+  - DOMAIN-SUFFIX,anthropic.com
   # iCloud
   - DOMAIN-KEYWORD,mail.icloud.com.cn

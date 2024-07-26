@@ -43,3 +43,6 @@ payload:
   - DOMAIN-SUFFIX,anthropic.com
   # iCloud
   - DOMAIN-KEYWORD,mail.icloud.com.cn
+  # Docker 
+  - DOMAIN,us-docker.pkg.dev
+  - DOMAIN-SUFFIX,googleusercontent.com

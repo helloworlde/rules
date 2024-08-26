@@ -43,6 +43,7 @@ payload:
   - DOMAIN-SUFFIX,anthropic.com
   - DOMAIN-SUFFIX,codeproject.com
   - DOMAIN-SUFFIX,deepstack.cc
+  - DOMAIN-SUFFIX,hailo.ai
   # iCloud
   - DOMAIN-KEYWORD,mail.icloud.com.cn
   # Docker 

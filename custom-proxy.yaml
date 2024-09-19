@@ -49,4 +49,6 @@ payload:
   # Docker 
   - DOMAIN,us-docker.pkg.dev
   - DOMAIN-SUFFIX,googleusercontent.com
+  # Google
+  - DOMAIN-SUFFIX,gmail.com
 

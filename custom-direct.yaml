@@ -17,3 +17,4 @@ payload:
   - DOMAIN-KEYWORD,itunes-apple.com.akadns.net
   - DOMAIN-KEYWORD,itunes.apple.com
   - DOMAIN-KEYWORD,apple
+  - DOMAIN-SUFFIX,synology.com

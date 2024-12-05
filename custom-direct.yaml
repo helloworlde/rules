@@ -8,7 +8,6 @@ payload:
   # - IP-CIDR6,2620:0:2d0:200::7/32
   # - DST-PORT,80
   # - SRC-PORT,7777
-  #- DOMAIN-SUFFIX,hellowood.dev
   - DOMAIN-KEYWORD,oyunfor
   - DOMAIN-KEYWORD,derp
   - DOMAIN-SUFFIX,onedrive.com

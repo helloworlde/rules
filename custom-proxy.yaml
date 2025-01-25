@@ -51,6 +51,7 @@ payload:
   - DOMAIN-KEYWORD,mail.icloud.com.cn
   # Docker 
   - DOMAIN,us-docker.pkg.dev
+  - DOMAIN-KEYWORD,docker
   - DOMAIN-SUFFIX,googleusercontent.com
   # Google
   - DOMAIN-SUFFIX,gmail.com

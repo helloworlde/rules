@@ -17,3 +17,4 @@ payload:
   - DOMAIN-KEYWORD,itunes.apple.com
   - DOMAIN-KEYWORD,apple
   - DOMAIN-SUFFIX,synology.com
+  - DOMAIN,docker.kegui.net

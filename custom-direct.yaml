@@ -18,3 +18,4 @@ payload:
   - DOMAIN-KEYWORD,apple
   - DOMAIN-SUFFIX,synology.com
   - DOMAIN,docker.kegui.net
+  - DOMAIN,cn.archive.ubuntu.com

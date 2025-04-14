@@ -13,3 +13,5 @@ payload:
   - DOMAIN,stats.grafana.org
   - DOMAIN,analytics.yinxiang.com
   - DOMAIN,copilot-telemetry.githubusercontent.com
+  - DOMAIN,telemetry.trae.ai.ttdns2.com
+  - DOMAIN,telemetry.trae.ai

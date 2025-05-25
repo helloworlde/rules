@@ -17,6 +17,7 @@ payload:
   - DOMAIN-SUFFIX,ghcr.io
   - DOMAIN-SUFFIX,githubusercontent.com
   - DOMAIN-SUFFIX,github.com
+  - DOMAIN-KEYWORD,github
   # TailScale
   - DOMAIN,pkgs.tailscale.com
   - DOMAIN-SUFFIX,tailscale.io
@@ -57,6 +58,7 @@ payload:
   - DOMAIN-SUFFIX,googleusercontent.com
   # Google
   - DOMAIN-SUFFIX,gmail.com
+  - DOMAIN,packages.cloud.google.com
   # DNS
   - DOMAIN-SUFFIX,quad9.net
   # Others

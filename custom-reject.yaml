@@ -15,3 +15,4 @@ payload:
   - DOMAIN,copilot-telemetry.githubusercontent.com
   - DOMAIN,telemetry.trae.ai.ttdns2.com
   - DOMAIN,telemetry.trae.ai
+  - DOMAIN-SUFFIX,wxs.qq.com

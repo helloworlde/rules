@@ -16,3 +16,5 @@ payload:
   - DOMAIN,telemetry.trae.ai.ttdns2.com
   - DOMAIN,telemetry.trae.ai
   - DOMAIN-SUFFIX,wxs.qq.com
+  - DOMAIN,spider-tracker.xiaohongshu.com
+  - DOMAIN-KEYWORD,telemetry

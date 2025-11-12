@@ -22,3 +22,4 @@ payload:
   - DOMAIN-SUFFIX,example.com
   - DOMAIN-SUFFIX,homelab
   - DOMAIN-SUFFIX,local
+  - DOMAIN-KEYWORD,microsoft

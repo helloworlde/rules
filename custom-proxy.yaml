@@ -65,5 +65,7 @@ payload:
   - DOMAIN-SUFFIX,quad9.net
   # Others
   - DOMAIN-SUFFIX,hellowood.dev
+  # News
+  - DOMAIN-SUFFIX,folo.is
   # Mirror
   - DOMAIN,ports.ubuntu.com
